@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Burhanudin
 
-<!--
-**burhan-saini/burhan-saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently studying at UiTM as Computer Science student with interest in recent technologies, artificial intelligence and web development
 
-Here are some ideas to get you started:
+## About me
+- Studying: Computer Science[CDCS230] , UiTM
+- Currently learning: CSC649 - Special Topic in Computer Science, learn about github workaround
+- My FYP area: still deciding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+C++ , Java, Canva , MS Word, Photopea, Audacity.
+Leadership, Intuitive, Curious about new technology.
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/burhanudin-saini-4a649b332/
+- Email: sainiburhanudin5@gmail.com
